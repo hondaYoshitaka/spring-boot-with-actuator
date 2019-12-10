@@ -53,7 +53,7 @@
                         <image>gcr.io/distroless/java:11</image>
                     </from>
                     <to>
-                        <credHelper>ecr-login</credHelper>
+                        <image>registry.hub.docker.com/yhonda/spring-boot-with-actuator</image>
                         <tags>
                             <tag>${project.version}</tag>
                         </tags>
